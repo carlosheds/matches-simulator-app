@@ -1,6 +1,6 @@
 # Matches Simulator App
 
-App Android Nativo de Simulação de aprtidas.
+App Android Nativo de Simulação de partidas.
 
 Esse reposítório foi organizado em algumas branches que representam as implementações realizadas durante os seguintes conteúdos :
 
